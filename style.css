@@ -14,11 +14,11 @@ header{
 nav{
 	width: 100%;
 	height: auto;
-	color: #fff;
+	color: rgb(228, 13, 13);
 	z-index: 999;
 }
 .upper_navbar{
-	background-color: #112255; 
+	background-color: #92a3d4; 
 }
 .menu1{
 	width: 90%;
